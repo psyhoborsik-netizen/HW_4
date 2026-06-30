@@ -25,7 +25,7 @@ if (fact.includes("JavaScript")) {
     console.log(false)
 }
 //4
-let number2 = 116;
+let number2 = 16;
 
 if (number2 >= 10 && number2 <= 20) {
     console.log("Число входить в діапазон від 10 до 20")
